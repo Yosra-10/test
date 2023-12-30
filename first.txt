@@ -1,0 +1,3 @@
+Workshop GIT
+I am beginning to understand Gomycode
+This text was added originally while in the test branch
